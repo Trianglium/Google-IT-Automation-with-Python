@@ -29,4 +29,4 @@ This script processes text, removes punctuation, counts the frequencies of words
 
 
 ###### Project Source
-[Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+####### [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
