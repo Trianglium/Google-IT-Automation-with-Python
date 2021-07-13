@@ -3,5 +3,5 @@
 
 
 ## Table of Contents
-### [WordCloud](WordCloud)
-### [Start Date Report](start_date_report.py)
+### [Word Cloud](https://github.com/Trianglium/Google-IT-Automation-with-Python/tree/main/WordCloud#world-cloud)
+### [Start Date Report](https://github.com/Trianglium/Google-IT-Automation-with-Python/tree/main/Start-Date-Report#start-date-report)
