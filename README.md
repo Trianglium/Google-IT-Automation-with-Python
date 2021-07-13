@@ -1,10 +1,10 @@
-# health-checks
-Scripts that check the health of my computers
-
-This repo will be populated with lots of fancy checks.
+# Google IT Automation with Python Projects
+#### This repository is a collection of my projects in the Google IT Automation with Python Professional Certificate.
 
 
-Week Three
-I am editing the README file. Adding some more details about the project description.
+# Table of Contents
+### [WordCloud](WordCloud)
+### [Start Date Report](start_date_report.py)
 
-6.29.2021 |  05:53am | Editing this readme file yet again 
+
+###### [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
