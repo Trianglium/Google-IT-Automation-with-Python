@@ -9,7 +9,7 @@
 ###### python start_date_report.py
 
 
-# Example
+## Example
 #### Date Entered: 29 September 2019
 Started on Oct 01, 2019: ['Aurelia Campbell', 'Anjolie Powell']  
 
