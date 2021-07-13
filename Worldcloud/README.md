@@ -28,5 +28,5 @@ This script processes text, removes punctuation, counts the frequencies of words
 * IPython
 
 
-###### Project Source
-####### [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
+##### Project Source
+###### [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
