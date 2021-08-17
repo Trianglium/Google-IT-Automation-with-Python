@@ -5,3 +5,4 @@
 ## Table of Contents
 ### [Word Cloud](https://github.com/Trianglium/Google-IT-Automation-with-Python/tree/main/WordCloud#world-cloud)
 ### [Start Date Report](https://github.com/Trianglium/Google-IT-Automation-with-Python/tree/main/Start-Date-Report#start-date-report)
+### [Catalog Information](https://github.com/Trianglium/Google-IT-Automation-with-Python/tree/main/Catalog-Information#catalog-information)
