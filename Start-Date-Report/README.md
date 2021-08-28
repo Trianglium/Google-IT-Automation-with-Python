@@ -1,15 +1,15 @@
 # Start Date Report
+---
 ## Generate a Report from a CSV file or Log file
- This example script is designed to read data files with information on employees and then generate a report.
+ This program is designed to read data files with employee information and then generate a report.
 
 ## Usage
-#### Linux/Bash Users ####
+---
 ###### ./start_date_report.py
-#### Windows/Command Prompt Users ####
-###### python start_date_report.py
 
 
 ## Example
+---
 #### Date Entered: 29 September 2019
 Started on Oct 01, 2019: ['Aurelia Campbell', 'Anjolie Powell']  
 
