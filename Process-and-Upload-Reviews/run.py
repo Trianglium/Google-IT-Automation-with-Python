@@ -2,9 +2,9 @@
 import os
 import requests
 
-url = 'http://130.211.204.15/feedback/'
+url = 'http://'+'[external IP Address]'+'/feedback/'
 
-fb_path = "/data/feedback/"
+fb_path = "/Process-and-Upload-Reviews/feedback/"
 fb_dir = os.listdir(fb_path)
 feedback = {}
 for files in fb_dir:
