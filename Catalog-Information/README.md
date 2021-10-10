@@ -1,4 +1,4 @@
-<h1 align="center">Automate updating catalog information</h1>
+<h1 align="center">Automate Updating Catalog Information</h1>
 <p align="center"><strong>This program is intended to solve a complex IT task. Automating the task of processing and converting of multiple types of files (images and text), storing said files on a running web service, creating PDFs that will be sent through email during specified events (aka notifications), and checking the health of the system. </strong>
 
 <h2>Problem Statement</h2>
