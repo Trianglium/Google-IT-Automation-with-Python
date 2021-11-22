@@ -3,10 +3,10 @@ import os
 import requests
 
 # Example External IP Address
-external_IP_Address = 12.345.678.90
+external_IP_Address = '12.345.678.90'
 
 # Enter your website's exdternal IP Address or your django website's URL
-company_url = "http://{}/feedback/".format(External_IP_Address)
+company_url = "http://{}/feedback/".format(external_IP_Address)
 
 # Identify Path of Review (Text) files
 feedback_path = "/Process-and-Upload-Reviews/feedback/"
